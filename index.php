@@ -12,7 +12,7 @@ $age = 20;                      // Integer
 $height = 4.9;                  // Float
 $isStudent = true;             // Boolean
 
-$intro = "Hello, my name is Paula " . $name . ". Welcome to my portfolio!";
+$intro = "Hello, my name is " . $name . ". Welcome to my portfolio!";
 ?>
 
 <!DOCTYPE html>
